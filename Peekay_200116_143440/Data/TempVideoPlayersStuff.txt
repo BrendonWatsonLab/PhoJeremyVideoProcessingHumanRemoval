@@ -1,0 +1,75 @@
+PlayEvent
+PauseEvent
+StopEvent
+
+
+
+Rendered
+
+
+DataLoadedEvent
+DataSourceChanged
+
+
+TimeToUpdateText
+
+
+VisualChanged
+VisualUpdated
+
+
+SourceStopped
+SourceRun
+SourceStopping
+SourceStop
+SourcePause
+SourceContinue
+SourceHalt
+
+
+
+
+
+TextUpdated
+TimeToUpdateText
+
+SynchronousLockChanged
+
+
+LayoutDimensionsChanging
+LayoutDimensionsChanged
+
+
+ScopeCursorsUpdated
+
+
+
+
+%% OTHER
+svp.vidPlayer.DataSource.installDataHandler
+
+
+Controls methods:
+timerTick
+addlistener
+  'stepBack'
+    'PlaybackControlsTimer'
+
+    'stepFwd'
+
+    'pause'
+
+ans =
+
+    'getTimerState'
+
+
+ans =
+
+    'isTimerRunning'
+    'play'
+
+'onStateEventHandler'
+    'playPause'
+ 'resetToStart'
+    'stop'

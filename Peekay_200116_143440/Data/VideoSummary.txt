@@ -1,0 +1,34 @@
+Door starts open.
+
+104 HumanHandEnteredFrame
+116 DoorOpening
+129 DoorFullyOpen
+148 HumanHandOutOfFrame
+303 MouseEntersFrame
+1898 MouseStartsCrossingRampToExit
+1922 MouseExitsFrame
+
+3672, MouseEntersFrame
+5251, HumanEntersFrame
+5272, END_OF_VIDEO
+
+
+
+CUTS:
+
+6112 
+
+
+Total - Frames to remove:
+    1	118
+    5416	6085
+    21230	21977
+    41536	42251
+    45130	45752
+    48616	49243
+    50959	51542
+    52851	53646
+    55724	56329
+    59782	60382
+    71659	72208
+

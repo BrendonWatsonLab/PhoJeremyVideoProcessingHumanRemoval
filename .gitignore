@@ -1,0 +1,6 @@
+﻿*.avi
+*.asv
+*.mldatx
+PhoAnalysis/videoLabelingSession.mat
+PhoAnalysis/videobackup.mat
+PhoAnalysis/Helpers
