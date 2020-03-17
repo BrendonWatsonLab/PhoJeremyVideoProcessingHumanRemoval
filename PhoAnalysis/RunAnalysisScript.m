@@ -10,9 +10,17 @@ videoFrameGateRect = [319.913260485224 9.09676368265632 17.174890796144 15.37944
 % curr_video_file.filename = 'Peekay_20200116_143605803.avi';
 % curr_video_file.relative_file_path = fullfile("..\Peekay_200116_143440\Peekay_20200116_143605803.avi");
 % Video 2:
-curr_files_path = '..\Peekay_200117_130855';
-curr_video_file.filename = 'Peekay_20200117_131022908.avi';
+% curr_files_path = '..\Peekay_200117_130855';
+% curr_video_file.filename = 'Peekay_20200117_131022908.avi';
 % curr_video_file.relative_file_path = fullfile("..\Peekay_200117_130855\Peekay_20200117_131022908.avi");
+
+% Video 3:
+% curr_files_path = '..\Peekay_200120_142401';
+% curr_video_file.filename = 'Peekay_20200120_142612695.avi';
+
+% Video 4:
+curr_files_path = '..\Peekay_200121_140135';
+curr_video_file.filename = 'Basler acA1920-40uc (22355049)_20200121_140231002.avi';
 
 curr_video_file.relative_file_path = fullfile(curr_files_path, curr_video_file.filename);
 
